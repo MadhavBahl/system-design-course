@@ -35,7 +35,7 @@ else if (you want cheaper but more scenic route) {
 }
 ```
 
-The **Strategy Pattern** is like having a **smart navigation app** where:
+With the **Strategy Pattern** you can build a **smart navigation app** where:
 - The app knows: "I need to go from A to B".
 - You can **plug in different route strategies**: fastest, shortest, scenic.
 - The app doesn't change; you just **swap the strategy**.
@@ -304,7 +304,3 @@ Use Strategy Pattern when:
 6. **Better separation of concerns**
    - The context focuses on *when* to do things.
    - Strategies focus on *how* to do those things.
-
----
-
-This navigation example is a simple, visual way to show how the Strategy Pattern lets us **swap different behaviors** (algorithms) without rewriting or breaking the main flow of the program.
