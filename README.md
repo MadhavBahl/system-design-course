@@ -17,6 +17,18 @@ Most examples are in Java, but the design ideas apply to any object‑oriented l
     - YouTube Link: [Template Method Pattern Explained](https://www.youtube.com/watch?v=nbFTVrR0h8Q&list=PLGyA74h_S9NqESOLW5W2SCSxESNCkycwr)
 		- Implementation of Template Method
 		- Compare [BadCode.java](BehavioralPatterns/TemplatePattern/BadCode.java) vs [GoodCode.java](BehavioralPatterns/TemplatePattern/GoodCode.java)
+  - [StrategyPattern](BehavioralPatterns/StrategyPattern)
+    - YouTube Link: [Strategy Method Pattern Explained](https://www.youtube.com/watch?v=MUcUQalnfIc&list=PLGyA74h_S9NqESOLW5W2SCSxESNCkycwr)
+		- Implementation of Strategy Pattern Method
+		- Compare [BadCode.java](BehavioralPatterns/StrategyPattern/BadCode.java) vs [GoodCode.java](BehavioralPatterns/StrategyPattern/GoodCode.java)
+  - [ObserverPattern](BehavioralPatterns/ObserverPattern)
+    - YouTube Link: [Observer Pattern Method Explained](https://www.youtube.com/watch?v=BJqe1Tfugn4&list=PLGyA74h_S9NqESOLW5W2SCSxESNCkycwr)
+		- Implementation of Observer Pattern Method
+		- Compare [BadCode.java](BehavioralPatterns/ObserverPattern/BadCode.java) vs [GoodCode.java](BehavioralPatterns/ObserverPattern/GoodCode.java)
+  - [StatePattern](BehavioralPatterns/StatePattern)
+    - YouTube Link: [State Pattern Explained](https://www.youtube.com/watch?v=jbaU4UCIrQ8&list=PLGyA74h_S9NqESOLW5W2SCSxESNCkycwr)
+		- Implementation of State Pattern Method
+		- Compare [BadCode.java](BehavioralPatterns/StatePattern/BadCode.java) vs [GoodCode.java](BehavioralPatterns/StatePattern/GoodCode.java)
 
 Each pattern folder has its own [README](BehavioralPatterns/StrategyPattern/README.md) to accompany the video in the series.
 
